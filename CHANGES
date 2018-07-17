@@ -1,3 +1,7 @@
+2.0.0	2018-05-14
+
+	- Added surface-mapped task timecourses and contrasts to the derivatives folder
+
 Revision history for OpenfMRI dataset ds000224
 
 1.0.2 2017-09-05
