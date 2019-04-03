@@ -3,20 +3,20 @@
         "Description": "Kaufman Brief Intelligence Test, Second Edition",
         "TermURL": "http://www.cognitiveatlas.org/term/id/trm_529ce6ecb35f8"
     },
-    “KBIT2_verbal_standard”: {
-        "Description": “verbal IQ score”,
-        "Units": “summed Likert scores”
+    "KBIT2_verbal_standard": {
+        "Description": "verbal IQ score",
+        "Units": "summed Likert scores"
     },
-    “KBIT2_nonverbal_standard”: {
-        "Description": “nonverbal IQ score”,
-        "Units": “summed Likert scores”
+    "KBIT2_nonverbal_standard": {
+        "Description": "nonverbal IQ score",
+        "Units": "summed Likert scores"
     },
-    “KBIT2_IQ”: {
-        "Description": “Total IQ score”,
-        "Units": “summed Likert scores”,
-        “Derivative”: {
-            “1”,
-            “2”
+    "KBIT2_IQ": {
+        "Description": "Total IQ score",
+        "Units": "summed Likert scores",
+        "Derivative": {
+            "1",
+            "2"
         }
     }
 }
