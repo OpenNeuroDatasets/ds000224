@@ -3,24 +3,24 @@
         "Description": "NEO Five Factor Inventory",
         "TermURL": "N/A"
     },
-    “NEOFFI_neuroticism”: {
-        "Description": “Five-factor inventory Neuroticism score”,
-        "Units": “summed Likert scores”
+    "NEOFFI_neuroticism": {
+        "Description": "Five-factor inventory Neuroticism score",
+        "Units": "summed Likert scores"
     },
-    “NEOFFI_extraversion”: {
-        "Description": “Five-factor inventory Extraversion score”,
-        "Units": “summed Likert scores”
+    "NEOFFI_extraversion": {
+        "Description": "Five-factor inventory Extraversion score",
+        "Units": "summed Likert scores"
     },
-    “NEOFFI_openness”: {
-        "Description": “Five-factor inventory Openness score”,
-        "Units": “summed Likert scores”
+    "NEOFFI_openness": {
+        "Description": "Five-factor inventory Openness score",
+        "Units": "summed Likert scores"
     },
-    “NEOFFI_agreeableness”: {
-        "Description": “Five-factor inventory Agreeableness score”,
-        "Units": “summed Likert scores”
+    "NEOFFI_agreeableness": {
+        "Description": "Five-factor inventory Agreeableness score",
+        "Units": "summed Likert scores"
     },
-    “NEOFFI_conscientiousness”: {
-        "Description": “Five-factor inventory Conscientiousness score”,
-        "Units": “summed Likert scores”
+    "NEOFFI_conscientiousness": {
+        "Description": "Five-factor inventory Conscientiousness score",
+        "Units": "summed Likert scores"
     }
 }
