@@ -5,11 +5,7 @@
     },
     "NIHToolbox_cognition_crystallized_composite": {
         "Description": "Crystallized intelligence",
-        "Units": "# items, age-standardized",
-        "Derivative": {
-            "6",
-            "9"
-        }
+        "Units": "# items, age-standardized"
     },
     "NIHToolbox_9hole_pegboard_dexterity": {
         "Description": "Manual dexterity",
