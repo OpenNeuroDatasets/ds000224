@@ -14,10 +14,6 @@
     "KBIT2_IQ": {
         "Description": "Total IQ score",
         "Units": "summed Likert scores",
-        "Derivative": {
-            "1",
-            "2"
-        }
     }
 }
 
