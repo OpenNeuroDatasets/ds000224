@@ -13,7 +13,7 @@
     },
     "KBIT2_IQ": {
         "Description": "Total IQ score",
-        "Units": "summed Likert scores",
+        "Units": "summed Likert scores"
     }
 }
 
