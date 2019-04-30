@@ -16,6 +16,5 @@ Revision history for OpenfMRI dataset ds000224
   - Added distance matrices to derivatives directory
   - Updated publication information in dataset_description.json
 
-1.0.0 2017-07-27
-
-  - Initial release
+1.0.0 2019-04-30
+  - Corrected formatting of some tsv and json files to conform with updated BIDS specifications 
