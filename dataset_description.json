@@ -25,7 +25,7 @@
         "Nico U.F. Dosenbach"
     ],
     "HowToAcknowledge": "When using this data, please cite Gordon et al., Precision Functional Mapping of Individual Human Brains, 2017 and include the following: 'This data was obtained from the OpenfMRI database. Its accession number is ds000224'",
-    "Funding": "This work was supported by National Institutes of Health Grants NS088590, TR000448 (NUFD), MH104592 (DJG), and HD087011 (to the Intellectual and Developmental Disabilities Research Center at Washington University); the Jacobs Foundation (NUFD); the Child Neurology Foundation (NUFD); the McDonnell Center for Systems Neuroscience (NUFD, BLS); the Mallinckrodt Institute of Radiology (NUFD); the Hope Center for Neurological Disorders (NUFD, BLS, SEP); and Dart Neuroscience LLC.",
+    "Funding": ["This work was supported by National Institutes of Health Grants NS088590, TR000448 (NUFD), MH104592 (DJG), and HD087011 (to the Intellectual and Developmental Disabilities Research Center at Washington University); the Jacobs Foundation (NUFD); the Child Neurology Foundation (NUFD); the McDonnell Center for Systems Neuroscience (NUFD, BLS); the Mallinckrodt Institute of Radiology (NUFD); the Hope Center for Neurological Disorders (NUFD, BLS, SEP); and Dart Neuroscience LLC."],
     "ReferencesAndLinks": [
         "http://www.cell.com/neuron/fulltext/S0896-6273(17)30613-X"
     ],
