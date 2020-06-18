@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/XG/pX/MD5E-s3590--1dc3c0dc2c2e46017d573a6300781cc0.wb.spec/MD5E-s3590--1dc3c0dc2c2e46017d573a6300781cc0.wb.spec
