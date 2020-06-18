@@ -1,0 +1,19 @@
+{
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "TrioTim",
+	"ProcedureStepDescription": "head_Dosenbach_MSC",
+	"ScanningSequence": "GR",
+	"SequenceVariant": "TOF_SP",
+	"SeriesDescription": "MRV_coronal-I-pat",
+	"BodyPartExamined": "HEAD",
+	"ProtocolName": "MRV_coronal-I-pat",
+	"SequenceName": "_fl2d1r_t70",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "ND"],
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 60,
+	"EchoTime": 0.00718,
+	"RepetitionTime": 0.028,
+	"PhaseEncodingDirection": "i-",
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170411 GCC4.4.7"
+}
