@@ -7,3 +7,4 @@ bold_group.html
 magnitude1.json
 magnitude2.json
 sub-*/ses-struct*/anat/*veno*
+sub-*/ses-struct*/*scans.tsv
