@@ -1,3 +1,5 @@
+1.0.3 2020-07-15
+  - Fixed .bidsignore
 2.0.0	2018-05-14
 
 	- Added surface-mapped task timecourses and contrasts to the derivatives folder
