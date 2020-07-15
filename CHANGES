@@ -4,11 +4,8 @@
 
 Revision history for OpenfMRI dataset ds000224
 
-1.0.2 2017-09-05
-
-  - Added mean_structural_Talaraich directories to derivatives/
-  - Reorganized derivatives/
-
+1.0.2 2020-07-15
+  - Corrected events files for MSC02, sess11, memoryscenes runs
 1.0.1 2019-11-25
   - Added nuisance-regressed versions of the surface-mapped task timecourses (as used in Gratton et al., Neuron, 2018) to the Derivatives folder
 1.0.0 2019-04-30
