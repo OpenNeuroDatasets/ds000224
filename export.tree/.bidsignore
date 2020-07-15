@@ -1,0 +1,10 @@
+acq-coronal_veno.json
+acq-sagittal_veno.json
+ds000224/
+T1w_group.html
+T2w_group.html
+bold_group.html
+magnitude1.json
+magnitude2.json
+sub-*/ses-struct*/anat/*veno*
+sub-*/ses-struct*/*scans.tsv
