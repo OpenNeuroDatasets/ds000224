@@ -1,9 +1,0 @@
-filename	acq_time
-func/sub-MSC01_ses-func10_task-rest_bold.nii.gz	1894-09-10T00:29:26
-func/sub-MSC01_ses-func10_task-memorywords_bold.nii.gz	1894-09-10T01:01:45
-func/sub-MSC01_ses-func10_task-memoryfaces_bold.nii.gz	1894-09-10T01:13:06
-func/sub-MSC01_ses-func10_task-memoryscenes_bold.nii.gz	1894-09-10T01:07:45
-func/sub-MSC01_ses-func10_task-glasslexical_run-01_bold.nii.gz	1894-09-10T01:23:45
-func/sub-MSC01_ses-func10_task-glasslexical_run-02_bold.nii.gz	1894-09-10T01:32:06
-func/sub-MSC01_ses-func10_task-motor_run-01_bold.nii.gz	1894-09-10T01:18:45
-func/sub-MSC01_ses-func10_task-motor_run-02_bold.nii.gz	1894-09-10T01:39:45
