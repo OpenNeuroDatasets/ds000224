@@ -1,0 +1,11 @@
+filename	acq_time
+anat/sub-MSC04_ses-struct02_run-01_T1w.nii.gz	1894-11-06T00:22:01
+anat/sub-MSC04_ses-struct02_run-02_T1w.nii.gz	1894-11-06T01:02:37
+anat/sub-MSC04_ses-struct02_run-01_T2w.nii.gz	1894-11-06T00:27:28
+anat/sub-MSC04_ses-struct02_run-02_T2w.nii.gz	1894-11-06T01:08:04
+anat/sub-MSC04_ses-struct02_run-01_angio.nii.gz	1894-11-06T00:54:07
+anat/sub-MSC04_ses-struct02_run-02_angio.nii.gz	1894-11-06T01:34:27
+anat/sub-MSC04_ses-struct02_acq-coronal_run-01_veno.nii.gz	1894-11-06T00:36:03
+anat/sub-MSC04_ses-struct02_acq-coronal_run-02_veno.nii.gz	1894-11-06T01:16:05
+anat/sub-MSC04_ses-struct02_acq-sagittal_run-01_veno.nii.gz	1894-11-06T00:27:37
+anat/sub-MSC04_ses-struct02_acq-sagittal_run-02_veno.nii.gz	1894-11-06T01:08:10
