@@ -1,0 +1,46 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "NIH Toolbox Cognition Battery",
+        "TermURL": "http://www.cognitiveatlas.org/task-collection/id/tco_50f483e0a6bf9"
+    },
+    “NIHToolbox_cognition_crystallized_composite”: {
+        "Description": “Crystallized intelligence”,
+        "Units": “# items, age-standardized”,
+        “Derivative”: {
+            “6”,
+            “9”
+        }
+    },
+    “NIHToolbox_9hole_pegboard_dexterity”: {
+        "Description": “Manual dexterity”,
+        "Units": “completion speed in seconds, age-standardized”
+    },
+    “NIHToolbox_dimensional_change_card_sort”: {
+        "Description": “Executive function - switching”,
+        "Units": “combined accuracy and reaction time, age-standardized”
+    },
+    “NIHToolbox_flanker_inhibitory_control_attention”: {
+        "Description": “Inhibitory control”,
+        "Units": “combined accuracy and reaction time, age-standardized”
+    },
+    “NIHToolbox_list_sorting_working_memory”: {
+        "Description": “Working memory”,
+        "Units": “total items recalled, age-standardized”
+    },
+    “NIHToolbox_oral_reading_recognition”: {
+        "Description": “Language skill”,
+        "Units": “theta score generated using item response theory, age-standardized”
+    },
+    “NIHToolbox_pattern_comparison_process_speed”: {
+        "Description": “Processing speed”,
+        "Units": “number of correct items, age-standardized”
+    },
+    “NIHToolbox_picture_sequence_memory”: {
+        "Description": “Episodic memory”,
+        "Units": “number of adjacent pairs placed correctly, age-standardized”
+    },
+    “NIHToolbox_picture_vocabulary”: {
+        "Description": “Language and receptive vocabulary”,
+        "Units": “theta score generated using item response theory, age-standardized”
+    }
+}
