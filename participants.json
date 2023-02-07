@@ -1,7 +1,6 @@
 {
     "MeasurementToolMetadata": {
         "Description": "Demographic information",
-        "TermURL": "N/A"
     },
     "gender": {
         "Description": "Participant gender",
