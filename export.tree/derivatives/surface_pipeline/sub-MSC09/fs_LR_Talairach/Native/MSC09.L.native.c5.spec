@@ -1,1 +1,0 @@
-../../../../../.git/annex/objects/22/X6/MD5E-s918--e26188f25fb64a9d2a11166195a0da67.c5.spec/MD5E-s918--e26188f25fb64a9d2a11166195a0da67.c5.spec
