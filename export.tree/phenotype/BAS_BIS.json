@@ -1,0 +1,22 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "Behavioral Approach System / Behavioral Inhibition System scales",
+        "TermURL": "http://www.cognitiveatlas.org/term/id/trm_56a9137d9dce1"
+    },
+    "BAS_drive": {
+        "Description": "Persistent pursuit of goals",
+        "Units": "summed Likert scores"
+    },
+    "BAS_fun_seeking": {
+        "Description": "Desire for new rewards",
+        "Units": "summed Likert scores"
+    },
+    "BAS_reward_responsiveness": {
+        "Description": "Positive response to reward",
+        "Units": "summed Likert scores"
+    },
+    "BIS": {
+        "Description": "Sensitivity to negative events / anxiety",
+        "Units": "summed Likert scores"
+    }
+}
