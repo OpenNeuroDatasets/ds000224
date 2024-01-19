@@ -1,0 +1,29 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "Demographic information"
+    },
+    "gender": {
+        "Description": "Participant gender",
+        "Levels": {
+            "M": "Male",
+            "F": "Female"
+        }
+    },
+    "age": {
+        "Description": "Participant age",
+        "Units": "Years"
+    },
+    "education_degree": {
+        "Description": "Highest educational degree obtained",
+        "Levels": {
+            "Bachelors": "Bachelor's degree",
+            "Masters": "Master's degree",
+            "Professional": "Some Professional degree",
+            "Doctorate": "Ph.D."
+        }
+    },
+    "education_years": {
+        "Description": "Number of total years of education",
+        "Units": "Years"
+    }
+}
