@@ -1,1 +1,0 @@
-../../../../../.git/annex/objects/JZ/ZF/MD5E-s919--a53210fbc5d544cee0e6d3013633f716.c5.spec/MD5E-s919--a53210fbc5d544cee0e6d3013633f716.c5.spec
