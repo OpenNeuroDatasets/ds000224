@@ -1,0 +1,21 @@
+{
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "TrioTim",
+	"ProcedureStepDescription": "head_Dosenbach_MSC",
+	"ScanningSequence": "GR",
+	"SequenceVariant": "SP",
+	"SeriesDescription": "gre_field_mapping_4x4x4_36Slices",
+	"BodyPartExamined": "HEAD",
+	"ProtocolName": "gre_field_mapping_4x4x4_36Slices",
+	"SequenceName": "_fm2d2r",
+	"ImageType": ["ORIGINAL", "PRIMARY", "P", "ND"],
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 60,
+	"EchoTime": 0.00765,
+	"RepetitionTime": 0.667,
+	"PhaseEncodingDirection": "j-",
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170411 GCC4.4.7",
+	"EchoTime1": 0.00519,
+	"EchoTime2": 0.00765
+}
